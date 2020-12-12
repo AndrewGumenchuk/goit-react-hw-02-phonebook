@@ -8,7 +8,7 @@ const ContactsFile = ({ contacts, onDeleteContact }) => (
         <p className="item_text">{name}</p>
         <p className="item_text">{number}</p>
         <button className="item_buttom" onClick={() => onDeleteContact(id)}>
-          стерти
+          delete
         </button>
       </li>
     ))}
