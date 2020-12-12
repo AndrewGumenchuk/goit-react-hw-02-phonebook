@@ -1,0 +1,9 @@
+.item_contact {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.item_text {
+}
+.item_buttom {
+}
