@@ -1,7 +1,7 @@
 import React from 'react';
 import ContactsList from './components/Contact/';
 import { v4 as uniqueId } from 'uuid';
-import ContactForm from './components/Form/';
+import ContactForm from './components/ContactForm/';
 import Filter from './components/Filter/';
 import './App.css';
 const contacTest = [
